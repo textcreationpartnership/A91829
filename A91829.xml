@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of perfection. The great mystery of Anitchrist unfolded, by the rising of the sun of righteousness; or, The difference between the work and ministery of the messengers of God, and the work and ministery of the messengers of Antichrist. By a labourer in the vineyard of the Lord, called of the world Ambrose Rigge.</title>
+            <author>Rigge, Ambrose, 1635?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91829</idno>
+            <idno type="STC">Wing R1486</idno>
+            <idno type="STC">Thomason E919_10</idno>
+            <idno type="STC">ESTC R207535</idno>
+            <idno type="EEBO-CITATION">99866579</idno>
+            <idno type="PROQUEST">99866579</idno>
+            <idno type="VID">118855</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91829)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118855)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 138:E919[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of perfection. The great mystery of Anitchrist unfolded, by the rising of the sun of righteousness; or, The difference between the work and ministery of the messengers of God, and the work and ministery of the messengers of Antichrist. By a labourer in the vineyard of the Lord, called of the world Ambrose Rigge.</title>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed on p. 8: Ambrose Rigge.</note>
+                  <note>Date and place of publication from Wing.</note>
+                  <note>At head of page: (1).</note>
+                  <note>Annotation on Thomason copy: "July. 29 1657.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Antichrist --  Early works to 1800.</term>
+               <term>Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118855:1"/>
+            <div type="title">
+               <p>
+                  <hi>Of</hi> PERFECTION.</p>
+               <p>The great Myſtery of Antichriſt unfolded, by the riſing of the ſun of righteouſneſs; OR, The difference between the Work and Miniſtery of the Meſſengers of God, and the Work and Mi<g ref="char:EOLhyphen"/>niſtery of the Meſſengers of Antichriſt.</p>
+               <p>By a Labourer in the vineyard of the Lord, called of the world AMBROSE RIGGE.</p>
+            </div>
+            <div type="letter">
+               <p>THis is to all you Teachers, Profeſſors, Prieſts and People, whether Presbyterian, Independent, Anabaptiſt, or Seek<g ref="char:EOLhyphen"/>ers, (as they are called) or under what name or form ſo<g ref="char:EOLhyphen"/>ever they be, or whatſoever they profeſs or plead for from the Scripture, which was declared by the holy men of God, which had gifts given them which was perfect from God, in which they walked whoſe ways was perfect and upright before the Lord, and was juſtified in his ſight, and pleaſed him, walking by faith and in it; by which they had victory over the world, and that which was imperfect: and they writ forth the Scripture from that which was perfect by the inſpiration of God, as they were moved of the holy Ghoſt; which was and is profitable for doctrine, for cor<g ref="char:EOLhyphen"/>rection and inſtruction in righteouſneſs, <hi>&amp;c.</hi> that the man of God might be perfect, thorowly furniſhed unto every good work: and to this end, did the holy men of God write forth a declaration in order of their life and power, faith and victory, and how they came to have victory over the works of the devil, which is all im<g ref="char:EOLhyphen"/>perfect; and how it was the gift of God which was perfect which led them to a perfect man in Chriſt Jeſus: and how they came to tread upon ſerpents and ſcorpions, and upon all the power of the enemy, and to be more then conquerors through him who loved them.</p>
+               <pb n="2" facs="tcp:118855:2"/>
+               <p>Now they knowing, that after their deceaſe grievous wolves would enter in, which would ſeek to draw many from the gift of God which is perfect, the light wherewith Chriſt Jeſus the light of the world hath lighted every man withal, which is the gift of God, the covenant of the Father, which <hi>Moſes, Abraham,</hi> and all the Prophets and Apoſtles of God bare witneſs unto: now they knowing ſuch would enter in, whereby the worthy Name of God by which they was called would be blaſphemed &amp; the ways and works of the devil would be pleaded for and upheld, which ſtands altogether in imperfection; which they who walk therein, can<g ref="char:EOLhyphen"/>not believe any other; who receives not the gift of God which is perfect. Now this they writ forth, that all who came to be turn<g ref="char:EOLhyphen"/>ed to the light, and in it walk, which is the gift of God, might have a cloud of witneſſes againſt them who had ſtollen their words to plead for the devils kingdom, but hates the gift of God, and turns his grace into wantonneſs, and hates that which would bring you to witneſs the power of God, and the faith of God, which is perfect, which overcomes the world: and ſo it is no won<g ref="char:EOLhyphen"/>der that you are left ſtumbling in the dark, and blinde, not know<g ref="char:EOLhyphen"/>ing the Scriptures, nor the power of God: and here you wreſt the Scriptures to your own deſtruction.</p>
+               <p>Now all you Profeſſors afore mentioned, who are out of the light, and walk not in it, wherewith you are enlightned, which comes from the Son of God; do you not all meet and agree in this, That no man ſhall be perfect while he is upon earth? and do you not preach this, and plead for this? which is a doctrine well pleaſing to the devil; he will not contradict you in it, for it is that which he would hear: nevertheleſs all your high talking, and ſe<g ref="char:EOLhyphen"/>veral inventions and images ſet up from the letter; yet here you are not ſeparated, but are of one minde, faith and belief; and ſo it is no marvel why there is ſo much pride, covetouſneſs, lying, ſwearing, drunkenneſs and gluttony, defrauding, cozening, cheat<g ref="char:EOLhyphen"/>ing, backbiting murther, adultery, theft, and all other evil that can be named or invented, acted among ſuch who are in this faith and this belief; which in ſtead of giving victory over theſe things, leads into them, and gives them the name of Failings; and brings <hi>Davids</hi> words, and <hi>Paul</hi>'s words, to cover theſe abominations with. But now is the perfect day ſpringing, which diſcovers and
+<pb n="3" facs="tcp:118855:2"/> makes manifeſt all your words and works to be evil, and not to be wrought in God, notwithſtanding all your talking of him, and calling him Lord and Maſter; for his work is perfect, to deſtroy the works of the devil: And this is the reaſon why people hath been learning this ſixteen hundred years and are yet ever learning, but are never like to come to the knowledge of the Truth, if they ſhould learn ſixteen hundred years longer; but ſhall live and die in their ſins, becauſe they believe not the light wherewith they are enlightned, whereby ſin is ſeen and condemned in the fleſh, and victory witneſſed over it; and ſo the righteouſneſs of God is re<g ref="char:EOLhyphen"/>vealed from faith to faith, in which the power of God, which is the Goſpel, is received; which opens the priſon-door, and makes way for that which is pure and perfect to ariſe and come forth; and here the perfect Law of God comes to be ſet up, to be the Schoolmaſter unto Chriſt, which teaches to deny all them who hath gotten the Saints words, and hath transformed themſelves as the Miniſters of Chriſt, and thinks very much if they be not cal<g ref="char:EOLhyphen"/>led ſo; when as they have bent all their ſtrength and power againſt Chriſt, and hath muſtered up all their forces, (who will be under their command) againſt the appearance of Chriſt: but their wea<g ref="char:EOLhyphen"/>pons is carnal, and their captain doth not lead them to ſalvation. but to condemnation; though he may make fair promiſes and large pretences to ſtand by them in the day of battel, and to give them the honour, glory, and preferment of the world, if they will ſerve him, and be under his command: and this is beautiful to the eye, and ſweet to the taſte; ſo that many hearkens to him and are willing to ſerve him, and be under his command: ſo ſome he ſets on work on lying others on ſwearing and curſed ſpeaking others on pride, and covetouſneſs, and drunkenneſs; and others, who hath not money to ſatisfie their luſts and his will, he leads them to covet and ſteal that which is another mans, and ſo to the Gallows; others that he cannot get into theſe things, he leads them to wantonneſs and filthy pleaſures, to talk idly, or jeſt fooliſhly, or to go a ga<g ref="char:EOLhyphen"/>ming or ſporting, to ſpend their time without the fear of God: o<g ref="char:EOLhyphen"/>thers that he cannot get in groſs evils, he leads them into the Scri<g ref="char:EOLhyphen"/>ptures, to get a profeſſion, and a talk of them that witneſſed the precious faith, whereby they was made partakers of the precious promiſes, which was of right due to them: but ſtill he keeps them
+<pb n="4" facs="tcp:118855:3"/> under his power and command<g ref="char:punc">▪</g> ſubj<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ct to his will<g ref="char:punc">▪</g> in the faſhions, and cuſtoms, and vanities of the world; ſo that there is very little difference but in words and outward pretences among them, whereby the Devil is more transformed into an Angel of Light, and here the enemy of God makes many believe they are well enough, they are Church-members, and they themſelves yielding their Members ſervants to ſin, whereby they are captivated a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his will; And all theſe agree together, and with one mouth ſaith, they ſhall never be free from ſin, while they be upon earth: and here he deceiveth thouſands, and devoureth ten thouſands, and overthrows the true Faith which gives victory over the world, and the Prince of it, &amp; leads into the place of Holineſs within the vail: And here is his wiles and ſubtilties ſeen and known, which he deceiveth the Nations with, who is and hath been pleading for him, and fulfilling his will, in which you Prieſts and Pro<g ref="char:EOLhyphen"/>feſſors of what kinde ſoever, and people are found, who hates the Light wherewith you are enlightned, now are you found fight<g ref="char:EOLhyphen"/>ing againſt the Lamb of God, that is come to take away ſin and deſtroy the works of the Devil, and to preſent his children perfect to his Father without ſpot. And now doth the Prince of the Air, which hath ruled in your hearts all this time break forth and ſhew himſelf to the children of Light, who follows the Lamb, even ready to deſtroy the man childe, which is ready to be brought forth, which muſt rule the Nations with a rod of Iron, and leads you to ſet your ſelves in battle againſt him (though it be hard for you to believe it) and the work of his Servants in all ages, and the Life that they lived and the Goſpel they preached, and the Teſtimony they gave of the Son.</p>
+               <p n="1">1. You are againſt <hi>Noah<g ref="char:punc">▪</g>
+                  </hi> with whom Gods Covenant was, who was a juſt man and perfect in his Generation, and walked with God, <hi>Gen.</hi> 6. 9. but you are of that generation which walks not with God, but in the way that leads to the Chambers of death.</p>
+               <p n="2">2. You are againſt the command of God to <hi>Abraham,</hi> and ſo are of your father the Devil, whoſe work ye do and plead for, who ſaith and believeth none can be perfect upon earth; for God ſaid to <hi>Abraham, Walk before me, and be thou perfect,</hi> Gen. 17. 1.</p>
+               <p n="3">
+                  <pb n="5" facs="tcp:118855:3"/>3. You are of another minde then <hi>David</hi> was of, who com<g ref="char:EOLhyphen"/>manded his ſon <hi>Solomon</hi> to ſerve the Lord, <hi>with a perfect heart and with a willing minde,</hi> 1 Chr. 21. 9.</p>
+               <p n="4">4. You are againſt Gods Teſtimony of <hi>Job,</hi> who ſaid, He was a perfect and an upright man, and one that feared God<g ref="char:punc">▪</g> and eſchewed evil, <hi>Job</hi> 1. 18. and contrary to <hi>Bildads</hi> Teſtimony of him, though he was compaſſed about with troubles; yet he ſaid, God would not caſt away a perfect man, <hi>Job</hi> 18. 20. <hi>Job</hi> 33. 9.</p>
+               <p n="5">5. You are not in the way of God which is perfect, but are pleading againſt it, and any that ſhall be brought into it, <hi>Pſalm</hi> 18. 30. And <hi>David</hi> witneſſed that God girded him with ſtrength, and made his way perfect, <hi>Pſal.</hi> 18. 32. now you who are in the crooked ways of darkneſs knows not the way of God which is perfect, but hath choſen your own ways which leads to the Chambers of death.</p>
+               <p n="6">6. You are againſt the command of Chriſt unto his children, <hi>Mat.</hi> 5. 48. Who ſaid unto them <hi>Be ye perfect, as your father which is in heaven is perfect.</hi> Now they did not Anſwer and ſay as you do, That they did believe that they ſhould never be ſo: but you are made manifeſt, whom you ſerve, and whoſe com<g ref="char:EOLhyphen"/>mand you obey, with that which is perfect, which is hid from your eyes.</p>
+               <p n="7">7. Your Faith and Belief is againſt the coming of Chriſt, whoſe coming is to do away, and deſtroy that which is imperfect, 1 <hi>Cor.</hi> 13. 10. who was made manifeſt for the ſame purpoſe to deſtroy the works of the Devil, 1 <hi>Joh.</hi> 3. 8. Now who are the Antichriſts? but you Prieſts, and Profeſſors, and People, who are ſo wholly bent againſt the Coming, Command, and Work of Chriſt, that you are ſo far from witneſſing him come in the fleſh, that you have bent all your ſtrength together to fight againſt him. Now if this be not that Spirit of Antichriſt, which <hi>John</hi> warned the little children of, who witneſſed Chriſt in them, a greater then Antichriſt which was gone out in the world, let all who are children of the true Light judge, <hi>John</hi> 4. 3. So they that witneſs Chriſt come in their fleſh now, are to be warned of ſuch Spirits, not to believe every Spirit, but try the Spirits; for many falſe Spirits are gone out into the world, and ſpeaketh of the world, and the world heareth them, and believeth them,
+<pb n="6" facs="tcp:118855:4"/> and fighteth for them whoſe Kingdom is of the world, and per<g ref="char:EOLhyphen"/>ſecuteth and impriſoneth them that ſhall and doth oppoſe theſe Spirits of Antichriſt, which goes under the name of Chriſt; and hath gotten the words of <hi>Moſes, Abraham,</hi> the Prophets, and Apoſtles, yet are found out with the eternal Light of God, to be fighting againſt his Son, and are ſuch as he cryed many woes a<g ref="char:EOLhyphen"/>gainſt, <hi>Mat.</hi> 23.</p>
+               <p n="8">8. You are alſo oppoſing the command of the Apoſtle, who ſaid unto his brethren, <hi>Be perfect, be of good comfort,</hi> 2 Cor. 13. 11. Now if you had been in his days, you would have ſaid it was impoſſible, you could never believe it, as you do now. And ſo you put more confidence in the Devil, that he is able to up<g ref="char:EOLhyphen"/>hold his work in you as long as you live, then you can of God, that he will deſtroy the Devils work in you; and ſo according to your Faith will it be unto you: Now this is glad tidings to the Devil, that you have made a covenant with Death, and an a<g ref="char:EOLhyphen"/>greement with Hell; he will let you profeſs as much of the Scrip<g ref="char:EOLhyphen"/>tures as you will, as long as you are of this belief, and yet in the end will turn you into the Lake amongſt the unbelievers.</p>
+               <p n="9">9. You are ſeeking to deſtroy the gifts that was given to the Apoſtles, which was for the perfecting of the Saints, for the work of the Miniſtery; which was to that end, to bring them to a perfect man, to the Meaſure and Stature of the fulneſs of Chriſt, and to the unity of the Faith in this, that afterwards they might not be toſſed to and fro with the windy Doctrine of men, which was of a contrary Faith, as you are now, <hi>Eph.</hi> 4. 11, 12, 13, 14. Now your gift and work of your Miniſtery, is contrary for the perfecting of the man of ſin, and your work and miniſtery is that none can be perfect, which is the work Faith and Miniſtry of Antichriſt, and brings all the conditions of the Saints, which they paſſed thorow, before they grew up to a perfect man in Chriſt: Theſe things you bring to plead for the Devils Kingdom as long as you live, which they never did: but your cloak is too narrow, it will not cover you, and here you are found out the Antichriſt, and your gift and miniſtery of him, to the building up of his Kingdom, and the overthrowing of the true Faith in thouſands, which leads into the Kingdom which ſtands in righteouſneſs all that walks in it.</p>
+               <p n="10">
+                  <pb n="7" facs="tcp:118855:4"/>10. Your preaching is contrary to the Apoſtle, and your wiſ<g ref="char:EOLhyphen"/>dom is contrary to his, who came not with entiſing words of mans wiſdom, but in the demonſtration of the Spirit and of Power, and ſpake the wiſdom of God in a myſtery among them that was perfect, 1 <hi>Cor.</hi> 2. 6. but your wiſdom and ſpeaking is to make people believe they ſhall never be perfect, and ſo are as far contrary to his, as light is from darkneſs; therefore it is no mar<g ref="char:EOLhyphen"/>vel that people is begotten into a contrary faith and belief, and their wiſdom ſo earthly, carnal, ſenſual and deviliſh: now if this be not the Doctrine of Devils, let all who are of an upright heart judge.</p>
+               <p n="11">11. You are againſt the end for which the Scripture was gi<g ref="char:EOLhyphen"/>ven forth, which was for the perfecting of the Man of God, 2 <hi>Tim.</hi> 3. 17. And ſo are the Antichriſts the Scripture ſpeaks of.</p>
+               <p n="12">12. You are againſt the Prayer of the Apoſtle for the Saints, <hi>Heb.</hi> 13. 20, 21. whoſe Prayer to God was that they might be made perfect in every good work: Now your Prayers is, that he would give you grace, when as his grace hath appeared to you, and you have turned it into wantonneſs, and ſo tempts God, to give you that which you would ſpend upon your luſt: but your prayers are an abomination to him, and he will not hear you, becauſe you regard iniquity in your hearts, and works it with your hands, and cannot believe that ever you ſhall be brought out of it here: your prayers are out of the Faith, and ſo are not accepted; but you are thoſe that muſt depart from the Son<g ref="char:punc">▪</g> though you may propheſie in his name, and preach his words in your ſynagogues, and make many long prayers to him, as your forefathers did, yet your iniquities hath made a ſeparation between him and you, and though you make many prayers, he will not hear, becauſe you have caſt his perfect law behinde your backs, and hath wrought deſpite again the Spirit of Grace.</p>
+               <p n="13">13. You are againſt the prayer of <hi>Peter</hi> for them he ſpoke to, who prayed that the God of all Grace, who had called them unto his eter<g ref="char:EOLhyphen"/>nal Glory by Chriſt Jeſus, after they had ſuffered a while, make them perfect, 1 <hi>Pet.</hi> 5. 10. And the Apoſtle <hi>Paul</hi> ſaid, Let as many as be per<g ref="char:EOLhyphen"/>fect be thus minded, <hi>Phil.</hi> 3. 15. but you being men of corrupt minds doth withſtand this, as <hi>Jannes</hi> and <hi>Jambres</hi> withſtood <hi>Moſes,</hi> and to this Faith are Reprobates, and ſo hath not victory over the leaſt evil that is in the world; and therefore are to be denied by them who are not of the world, who keeps people ever learning, but are never able to come to the knowledge of the truth, 2 <hi>Tim.</hi> 3. and ſo are to be turn<g ref="char:EOLhyphen"/>ed away from and denied, according to the Apoſtles command.</p>
+               <p n="14">14. You are againſt the offering of Chriſt, who through the eter<g ref="char:EOLhyphen"/>nal Spirit offered himſelf to God, to purge their conſciences from dead
+<pb n="8" facs="tcp:118855:5"/> works, to ſerve the living God, <hi>Heb.</hi> 9. 14. now this you do not believe that ever you ſhall be brought from dead works, and ſo cannot be ſer<g ref="char:EOLhyphen"/>vants to God; for his ſervants you are, to whom you do obey, whether it be of ſin unto death, or of obedience unto righteouſneſs, <hi>Rom.</hi> 6. 16.</p>
+               <p n="15">15. Your pleading is againſt the one offering, which hath perfect<g ref="char:EOLhyphen"/>ed for ever them that are ſanctified, and ſo here you lies in the pollu<g ref="char:EOLhyphen"/>tions of the world, children of diſobedience, in whom the Prince of the air lodgeth, the Spirit that now worketh in you, whom you believe and obey, which oppoſeth the Spirit of truth which the world cannot receive, which who doth receive and obey, comes to be ſanctified, and ſo by one offering perfected, <hi>Heb.</hi> 10. 14. but this your enmity is a<g ref="char:EOLhyphen"/>gainſt, and ſo your many offerings day by day, and year by year, doth not make you that are the comers thereto perfect, but your conſcien<g ref="char:EOLhyphen"/>ces are corrupt, and your preaching vain, and faith vain, and are yet in your ſins, and can never believe any other: now here have you made the blood of Chriſt of none effect, which takes away ſin, and pur<g ref="char:EOLhyphen"/>ges the conſcience from dead works in all them that know it; and this is the cauſe of your <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> envy and rage againſt them, who by the power of God are brought to witneſſe the one offering, whereby they are perfected from ſin, and ſo from condemnation to do the will of God, which is their ſanctification.</p>
+               <closer>
+                  <signed>From him who now ſuffers in outward bonds at <hi>Dorcheſter</hi> in the Country of <hi>Dorſet</hi> (for de<g ref="char:EOLhyphen"/>claring againſt the Spirit of Antichriſt which is now abroad in the world) who is called among men, AMBROSE RIGGE.</signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <p>Now all you aforementioned, who ſaith and believeth no man or woman ſhall be made free from ſin while they be upon earth: I ask you one queſtion, Where ſhall people be made clean, ſeeing as death leaves them, judgement finds them, and no imperfect or unclean thing muſt enter into Gods Kingdom? Now I challenge you all Prieſts, and Profeſſors of what kinde or ſort ſoever, who are of this Faith, Anſwer by plain grounds of Scripture, without adding or diminiſhing, where or with what muſt people be made perfect, that people may no longer give ear to lying vanities, but may ſtrive to make their calling and election ſure, knowing that no other thing obtains the Crown of Life: And ſend your Anſwer to any of thoſe people, that are in ſcorn called Quakers; or to me in particular, whoſe name after the fleſh is</p>
+               <closer>
+                  <signed>A. R.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:118855:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
